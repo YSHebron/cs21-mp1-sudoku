@@ -15,10 +15,10 @@ Note: There is already a packaged `mars.jar` file in `"For Submission\"`.
 ### **Running the Program**
 The sudoku solvers can be run in two ways.
 
-1. **Through the MARS GUI.** In the menu bar, click File>Open, then navigate to the sudoku solver assembly files. Afterwards, in the toolbar, click Assemble (tool and wrench icon) then click Run (play icon). In the lower left, the execution pane will be visible through which you can paste test cases such as those found in the included 4x4.txt and 9x9.txt files in `"For Submission\`. Note that inputting test cases through the MARS GUI can only be done line-by-line.
-2. **Through cmd.** Open your command line, `cd` to `"For Submission"` (where `mars.jar` already exists), then run `java -jar mars.jar <file_name>`. File name could be `4x4sovler.asm` or `9x9solver.asm`. You may now input your valid test cases to the cmd. 
+1. **Through the MARS GUI.** In the menu bar, click File>Open, then navigate to the sudoku solver assembly files. Afterwards, in the toolbar, click Assemble (tool and wrench icon) then click Run (play icon). In the lower left, the execution pane will be visible through which you can paste test cases such as those found in the included 4x4.txt and 9x9.txt files in `"For Submission\"`. Note that inputting test cases through the MARS GUI can only be done line-by-line.
+2. **Through cmd.** Open your command line, `cd` to `"For Submission\"` (where `mars.jar` already exists), then run `java -jar mars.jar <file_name>`. File name could be `4x4solver.asm` or `9x9solver.asm`. You may now input your valid test cases to the cmd. 
 ### **Sample I/O**
-For the 4x4 solver, an input test case is formatted as:
+For the 4x4 solver, an input is formatted as:
 ```
 1000
 0001
@@ -34,7 +34,7 @@ Which outputs:
 3124
 ```
 
-For the 9x9 solver:
+For the 9x9 solver, an input is formatted as:
 ```
 005800009
 210000050
