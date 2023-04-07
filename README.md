@@ -6,6 +6,8 @@ First, we noted Sudoku's goal conditions and constraints (see `CS21_Project1_Spe
 Next, We wrote C programs as basis (see `"C Files\"`), which we then converted to Assembly.\
 Key ideas here are **backtracking** and **search space optimization**.\
 Full documentation and Assembly files for the `4x4solver.asm` and `9x9solver.asm` sudoku solvers can be found in `"For Submission\"`.
+
+Link to Video Documentation: https://drive.google.com/file/d/1k-E8vXAQEqSiizUXigCTDUmzAVF_FHYs/view?usp=sharing
 ### **Requirements**
 - Windows XP or higher.
 - Java Runtime Environment (JRE), Java 9 or higher. Latest Java SE recommended. Download: https://www.oracle.com/java/technologies/javase-downloads.html
