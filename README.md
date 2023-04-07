@@ -1,9 +1,9 @@
 # **CS 21 Project 1: Sudoku**
 
 ## MIPS32 Assembly 4x4 and 9x9 Sudoku Solver
-We first took note of Sudoku's goal conditions and constraints.\
-We then wrote C programs as basis (see `"C Files\"`), which we then converted to Assembly.\
-Key to our approach are **backtracking** and **search space optimization**.\
+First, we noted Sudoku's goal conditions and constraints (see `CS21_Project1_Specs.pdf`).\
+Next, We wrote C programs as basis (see `"C Files\"`), which we then converted to Assembly.\
+Key to our approach is **backtracking** and **search space optimization**.\
 Full documentation and Assembly files for the `4x4solver.asm` and `9x9solver.asm` sudoku solvers can be found in `"For Submission\"`.
 ### **Requirements**
 - Windows XP or higher.
