@@ -10,6 +10,7 @@ Full documentation and Assembly files for the `4x4solver.asm` and `9x9solver.asm
 - Windows XP or higher.
 - Java Runtime Environment (JRE), Java 9 or higher. Latest Java SE recommended. Download: https://www.oracle.com/java/technologies/javase-downloads.html
 - MARS v4.5. A Java program for teaching, compiling, and running MIPS32 Assembly. Download: http://courses.missouristate.edu/kenvollmar/mars/download.htm
+- Minimal space and memory.
 
 Note: There is already a packaged `mars.jar` file in `"For Submission\"`.
 
