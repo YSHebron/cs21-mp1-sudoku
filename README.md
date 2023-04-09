@@ -12,7 +12,7 @@ Key ideas here are **backtracking** and **search space optimization**.
 Full documentation and Assembly files for the `4x4solver.asm` and `9x9solver.asm` sudoku solvers can be found in `"For Submission\"`.
 
 ### **Quick Links**
-- See `CS21_Project1_Specs.pdf` for full specifications. Email me for access.
+- See `CS21_Project1_Specs.pdf` for full specifications. Please email me for access.
 - Project Documentation in `For Submission\Documentation.pdf`.
 - Link to Video Documentation [here](https://drive.google.com/file/d/1k-E8vXAQEqSiizUXigCTDUmzAVF_FHYs/view?usp=sharing).
 
