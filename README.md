@@ -70,8 +70,7 @@ Which outputs:
 697123584
 ```
 ---
-Yenzy Urson S. Hebron \
-yshebron@up.edu.ph
+Yenzy Urson S. Hebron \<yshebron@up.edu.ph\>
 
 University of the Philippines Diliman
 
