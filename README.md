@@ -1,4 +1,4 @@
-# **CS 21 Project 1: Sudoku**
+# **CS 21 Project 1: Sudoku Solvers**
 
 ## MIPS32 Assembly 4x4 and 9x9 Sudoku Solvers
 For this project, our goal was to create a 4x4 and 9x9 Sudoku solver using Assembly. Main languages used were C and MIPS32 Assembly.
